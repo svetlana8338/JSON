@@ -1,10 +1,10 @@
-{
+i{
   "id":"1",
   "Severity":"S4",
   "Priority":"P3",
   "Issue title":"При добавлении в фото файла Photos Library.photoslibrary выходит ошибка 500",
   "Issue description":"При попытке подтянуть в фото файл Photos Library.photoslibrary выходит ошибка 500 (Internal Server Error)",
-  "Steps to reduce":"1. Страница Личный кабинет https://foodplan.ru/personal/profile/ 2. Пользователь авторизован 3. Нажать на кнопку "+" в окне Фото 4. Загрузить файл "Photos Library.photoslibrary" из папки  /Users/svetlanapospelova/Pictures"
+  "Steps to reduce":"1. Страница Личный кабинет https://foodplan.ru/personal/profile/ 2. Пользователь авторизован 3. Нажать на кнопку '+' в окне Фото 4. Загрузить файл 'Photos Library.photoslibrary' из папки  /Users/svetlanapospelova/Pictures",
   "Expected result":"Уведомление 'Неверный тип файла, либо превышен максимальный размер файла'",
   "Actual result":"Открывается страница с ошибкой 'Internal Server Error'"
 }
