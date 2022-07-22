@@ -64,5 +64,16 @@ git add . && git commit -m "preferenses.json, skills.json" && git push
 #### 13. На веб интерфейсе создать файл bug_report.json.
 *Add file -> Create new file -> bug_report.json*
 
+#### 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+*bug_report.json -> Commit new file*
 
+#### 15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
+*редактирование файла bug_report.json*
 
+#### 16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+*bug_report.json -> Commit changes*
+
+#### 17. Синхронизировать внешний и локальный репозиторий JSON
+```
+git pull
+```
