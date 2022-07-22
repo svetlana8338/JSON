@@ -7,8 +7,8 @@
   "Steps to reduce":{
 	"step_1":"1. Page Personal account https://foodplan.ru/personal/profile/",
 	"step_2":"2. User is authorized",
-	"step_3":"3. Click on the button "+" in the window Photo", 
-	"step_4":"4. Upload file "Photos Library.photoslibrary" from folder /Users/svetlanapospelova/Pictures"
+	"step_3":"3. Click on the button '+' in the window Photo", 
+	"step_4":"4. Upload file 'Photos Library.photoslibrary' from folder /Users/svetlanapospelova/Pictures"
 }
   "Expected result":"Notification 'Invalid file type or maximum file size exceeded'",
   "Actual result":"Error page opens 'Internal Server Error'"
